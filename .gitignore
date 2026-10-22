@@ -1,0 +1,15 @@
+__pycache__/
+*.py[cod]
+*.pth
+*.pt
+runs/
+data/
+*.egg-info/
+.venv/
+venv/
+.DS_Store
+
+# prediction maps are archived on Zenodo, never committed
+maps/*/
+NEGATIVE_RESULTS.md
+evaluation
